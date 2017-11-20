@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 
-public class BFragment extends Fragment {
+public class BFragment extends android.app.Fragment {
 
     TextView txv_Texto;
 

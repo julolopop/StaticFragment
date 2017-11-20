@@ -15,7 +15,7 @@ import android.widget.EditText;
 import android.widget.SeekBar;
 
 
-public class AFragment extends Fragment {
+public class AFragment extends android.app.Fragment {
     private FragmentAListener mCallBack;
 
     private EditText edt_Texto;

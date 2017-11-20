@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.webkit.WebView;
 
 
-public class CFragment extends Fragment {
+public class CFragment extends android.app.Fragment {
     private WebView web_personal;
 
     @Nullable
